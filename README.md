@@ -1,4 +1,4 @@
-# Grafting Example
+# Grafting Tutorial
 
 This starter kit aims to be a very minimalistic boilerplate to quickly get started with grafting an existing subgraph onto a new one. It is meant to accompany the [Grafting Guide](https://thegraph.com/docs/en/cookbook/grafting).
 
